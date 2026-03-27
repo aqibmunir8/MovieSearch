@@ -41,10 +41,10 @@ This app uses OMDb (https://www.omdbapi.com/). Create a free account and get a k
 Create a `.env` file in project root:
 
 ```env
-VITE_ODMB_API_KEY=your_api_key_here
+VITE_OMDB_API_KEY=your_api_key_here
 ```
 
-> Ensure variable name is `VITE_ODMB_API_KEY` (not `VITE_OMDB_API_KEY`).
+> Ensure variable name is `VITE_OMDB_API_KEY` (not `VITE_ODMB_API_KEY`).
 
 ## 🛠️ Setup & run
 
