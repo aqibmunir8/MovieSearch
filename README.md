@@ -2,6 +2,8 @@
 
 A React + Vite movie discovery app that uses the OMDb API with React Router DOM loaders.
 
+🔗 Live Demo: https://lnkd.in/dJRGM_AD
+
 ## 🚀 Project Overview
 
 `Movie Search` allows users to search movies by title, view paginated search results, and open detail pages for a selected movie with extended info.
@@ -22,6 +24,15 @@ Highlights:
 - Axios for HTTP
 - CSS Module styling
 - OMDb API
+
+## 🗂️ I implemented:
+• Nested routes, Outlet, and navigation flows
+• Dynamic routing with params
+• Protected routes with auth context
+• Loader functions (data fetching the right way)
+• Search params, redirects, and navigation state handling
+• Proper loading + error states
+• Dynamically theme the entire app with a single HCL color — one value, full UI transformation.
 
 ## 🗂️ Project Structure
 
