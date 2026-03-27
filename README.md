@@ -2,7 +2,7 @@
 
 A React + Vite movie discovery app that uses the OMDb API with React Router DOM loaders.
 
-🔗 Live Demo: https://lnkd.in/dJRGM_AD
+🔗 Live Demo: https://movies-search-brown.vercel.app/
 
 ## 🚀 Project Overview
 
